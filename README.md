@@ -1,4 +1,4 @@
-# Laboratório Pull Request
+# Laboratório Pull Requests
 
 Participantes:
 
