@@ -2,5 +2,5 @@
 
 Participantes:
 
-- [Mauricio Souza Menezes](https://github.com/mau-me)
+- [Mauricio S. Menezes](https://github.com/mau-me)
 - [Matheus Ribeiro de Sena](https://github.com/MatheusSena02)
